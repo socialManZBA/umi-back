@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "username": "张三",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "王五",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "王五",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "username": "马六",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "找齐",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "username": "网吧2",
+      "password": "123",
+      "id": 7
+    }
+  ]
+}
